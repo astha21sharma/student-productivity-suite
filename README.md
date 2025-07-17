@@ -35,7 +35,7 @@ A simple C++ console-based application to manage students’ tasks, exams, and a
 ## 🛠️ Installation & Running
 
 📦 Clone the repository:
-```bash
+
 git clone https://github.com/your-username/student-productivity-suite.git
 cd student-productivity-suite
 ⚡ Compile:
@@ -50,6 +50,8 @@ bash
 Copy
 Edit
 ./student-suite
+--------
+
 📐 ER Diagram
 This diagram shows relationships between Students, Tasks, Exams, and Attendance.
 
