@@ -55,7 +55,7 @@ Edit
 📐 ER Diagram
 This diagram shows relationships between Students, Tasks, Exams, and Attendance.
 
-![ER diagram](ER_diagram.png) 
+![ER diagram](picture.png) 
 
 ---
 
